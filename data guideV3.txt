@@ -42,12 +42,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HDL5cAu.webp"},
+  {"desc2":"Step into a world of opulence and refined elegance with Barvikha RP, where dreams seamlessly blend with realityNestled amidst the breathtaking landscapes of Russia","photo2":"https://iili.io/HDL5lwb.webp"},
+  {"desc3":"Barvikha RP offers an exquisite escape that promises a life of indulgence, relaxation, and unmatched sophistication.","photo3":"https://iili.io/HDL57S9.webp"},
+  {"desc4":"In this meticulously crafted role-playing experience, participants are invited to embody the roles of affluent individuals seeking refuge from the ordinary","photo4":"https://iili.io/HDL5a9e.webp"},
+  {"desc5":"Set within the prestigious Barvikha Luxury Village, a real-life upscale suburb of Moscow,","photo5":"https://iili.io/HDL50tj.webp"},
+  {"descd":"As you enter the Barvikha RP, you'll be greeted by sprawling estates that boast modern architectural marvels","photod":"https://iili.io/HDL5Eox.webp"}
    ]
  
 }
